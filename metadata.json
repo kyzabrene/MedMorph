@@ -1,0 +1,5 @@
+{
+  "name": "MedMorph",
+  "description": "An interactive medical morpheme decoder that breaks down complex jargon into Greek and Latin roots to help laypeople and professionals understand medical terminology.",
+  "requestFramePermissions": []
+}
